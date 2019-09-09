@@ -1,0 +1,55 @@
+table.mosh {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+width: 100%; height:100%;
+  }
+table.mosh td, table.mosh th {
+  border: 1px solid #fff;
+  padding: 8px;
+  text-align: center;
+}
+table.mosh tr:nth-child(2) td:first-child {    
+  	background: #FDFEFE;
+	color: black;
+}
+table.mosh tr:nth-child(3) td:first-child {    
+  	background: #F2F4F4;
+	color: black;
+}
+table.mosh tr:nth-child(4) td:first-child {
+	background: #E5E7E9;
+	color: black;
+}
+table.mosh tr:nth-child(5) td:first-child {
+	background: #D6DBDF;
+	color: black;
+}
+table.mosh tr:nth-child(6) td:first-child {
+	background: #AEB6BF; 
+	color: black;
+}
+table.mosh tr:nth-child(7) td:first-child {
+	background: #5D6D7E;
+	color: black;
+}
+table.mosh tr:nth-child(8) td:first-child {
+	background: #34495E;
+	color: white;
+}
+table.mosh tr:nth-child(9) td:first-child {
+	background: #2C3E50;
+	color: white;
+}
+table.mosh tr:nth-child(10) td:first-child {
+	background: #212F3C;
+	color: white;
+}
+table.mosh tr:nth-child(11) td:first-child {
+	background: #273746;
+	color: white;
+}
+table.mosh tr:nth-child(12) td:first-child {
+	background: #17202A;
+	color: white;
+}
+
